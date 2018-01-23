@@ -1,0 +1,6 @@
+# binary file
+.DS_Store
+src/caffe/.DS_Store
+
+# xcode files not important
+caffe_metal.xcodeproj/*
